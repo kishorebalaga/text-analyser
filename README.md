@@ -1,3 +1,17 @@
+
+<img width="1726" alt="image" src="https://github.com/kishorebalaga/text-analyser/assets/49152042/b58670a2-9321-4d03-a845-a03952c5b0ea">
+
+Text Analyzer is a simple yet powerful tool for analyzing text content. Whether you're a writer, student, or just curious about the structure of a piece of text, this app provides valuable insights. It offers:
+
+Character Count: Quickly find out the total number of characters in your text.
+Sentence Count: Identify the number of sentences for better understanding of the text flow.
+Paragraph Count: Get an overview of the content structure by counting the paragraphs.
+Longest Word: Discover the longest word used in the text.
+Reading Time: Estimate the time required to read the text based on average reading speed.
+Easy to use and efficient, Text Analyzer is a handy tool for anyone dealing with text analysis. Try it out and gain valuable statistics about your textual content.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
