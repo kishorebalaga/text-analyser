@@ -1,18 +1,13 @@
 import "./App.css";
-import BookingForm from "./BookingForm";
-import BookingFormAntd from "./BookingFormAntd";
-import BookingAntdTesting from "./testing";
-import Recommendation from "./DestinationRecommendations";
+import { NavBAr } from "./features/navbar/NavBar";
+import Display from "./features/display/Display";
 
 function App() {
   return (
-    <div>
-      {/* <BookingForm /> */}
-      {/* <Recommendation /> */}
-      <BookingFormAntd />
-      {/* <BookingAntdTesting /> */}
+    <div className=" bg-[#f0f2f5] h-screen">
+      <NavBAr />
+      <Display />
     </div>
   );
 }
-
 export default App;
